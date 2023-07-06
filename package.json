@@ -1,0 +1,18 @@
+{
+    "name": "311",
+    "devDependencies": {
+        "@types/leaflet": "^1.9.3",
+        "@typescript-eslint/eslint-plugin": "^5.39.0",
+        "@typescript-eslint/parser": "^5.39.0",
+        "eslint": "8.22.0",
+        "eslint-webpack-plugin": "^3.2.0",
+        "leaflet": "^1.9.4",
+        "nullstack": "~0.16.4",
+        "postcss-loader": "^7.x",
+        "tailwindcss": "^3.x"
+    },
+    "scripts": {
+        "start": "npx nullstack start",
+        "build": "npx nullstack build"
+    }
+}
